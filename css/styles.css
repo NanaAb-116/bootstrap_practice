@@ -1,0 +1,10 @@
+h1 {
+  /* background-color: aqua; */
+  background: linear-gradient(
+    to bottom right,
+    rgba(0, 0, 255, 0.4),
+    rgb(255, 192, 203)
+  );
+  height: 10rem;
+  padding-top: 3rem;
+}
